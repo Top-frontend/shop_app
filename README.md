@@ -26,6 +26,11 @@ npm install es6-promise whatwg-fetch -D
 npm install express -S
 ```
 
+## swipe插件
+```
+npm install swipe-js-iso react-swipe
+```
+
 ## 目录结构
 - component   组件
 - container   页面组件
