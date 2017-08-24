@@ -22,7 +22,6 @@ export default class Ad extends Component{
     componentDidMount(){
         getAd().then(res=>res.json()).then(data=>{
             this.setState({data})
-            console.log(data);
         })
     }
 }

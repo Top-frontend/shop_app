@@ -34,4 +34,14 @@ npm install swipe-js-iso react-swipe
 ## 目录结构
 - component   组件
 - container   页面组件
+    subpage目录下
+    - Home
+        - subpage 智能组件
+        - index.js
+- index.js 用来控制显示哪一个页面
+
+- store  只能有一个
+- actions 用户发布动作
+- reducers  定义规则的
+- action-types  action的名字
 
