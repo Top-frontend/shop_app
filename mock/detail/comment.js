@@ -1,0 +1,35 @@
+module.exports={
+    hasMore:true,
+    data:[
+        {
+            username:'133****3355',
+            comment:'非常好吃,下次还来!',
+            star:5
+        },
+        {
+            username:'133****3433',
+            comment:'还可以吧',
+            star:4
+        },
+        {
+            username:'133****6645',
+            comment:'一般,味道有点淡',
+            star:3
+        },
+        {
+            username:'133****5214',
+            comment:'挺不错的',
+            star:5
+        },
+        {
+            username:'133****6565',
+            comment:'味道一般',
+            star:3
+        },
+        {
+            username:'133****9844',
+            comment:'挺好吃的,正合我口味',
+            star:5
+        }
+    ]
+}
