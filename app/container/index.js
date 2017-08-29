@@ -20,7 +20,7 @@ class App extends Component{
         //2.将当前的城市存放到redux
         let cityName=getStorage('cityName');
         if(cityName ==null){
-            cityName='杭州'
+            cityName='北京'
         }
         //页面加载后就设置一个城市
         this.props.userActions.update({
