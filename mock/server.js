@@ -1,8 +1,8 @@
 let express=require('express');
 let app=express();
 app.listen(3000);
-let bodyParser=require('body-parser');
-app.use(bodyParser.urlencoded({extended:true}))
+// let bodyParser=require('body-parser');
+// app.use(bodyParser.urlencoded({extended:true}))
 
 let ad=require('./home/ad');
 //广告的接口

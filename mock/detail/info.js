@@ -1,5 +1,5 @@
 module.exports={
-    img:'http://pic17.nipic.com/20111019/7995528_104308113000_2.jpg',
+    img:'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1504670508&di=85f25f8f0912a4724858fa776c6e5326&imgtype=jpg&er=1&src=http%3A%2F%2Fd3.5ikfc.com%2Fp%2F2%2F5ikfc_chfz37.jpg',
     title:'天下第一汉堡',
     star:4,
     price:'88',
