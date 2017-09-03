@@ -45,3 +45,5 @@ npm install swipe-js-iso react-swipe
 - reducers  定义规则的
 - action-types  action的名字
 
+## 项目启动
+- npm run dev
